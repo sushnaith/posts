@@ -1,9 +1,9 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Posts
+tagline: All blogposts from Sushant Naithani
+url: https://www.sushnaith.in
 paginate: 1
-baseurl: ""
+baseurl: "http://sushnaith.github.io/posts/"
 permalink: pretty
 
 # Gems
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Sushant Naithani
+  url: https://twitter.com/sushnaith  
+  email: sushnaith@gmail.com
 
 # Custom vars
 version: 3.0.0
