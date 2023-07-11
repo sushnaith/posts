@@ -3,7 +3,7 @@ title: Posts
 tagline: All blogposts from Sushant Naithani
 url: https://www.sushnaith.in
 paginate: 1
-baseurl: "http://sushnaith.github.io/posts/"
+baseurl: "/posts"
 permalink: pretty
 
 # Gems
